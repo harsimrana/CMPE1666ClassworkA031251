@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyPracticeWeek01Day01_02_Sep/1.0.0": {
+        "runtime": {
+          "MyPracticeWeek01Day01_02_Sep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyPracticeWeek01Day01_02_Sep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

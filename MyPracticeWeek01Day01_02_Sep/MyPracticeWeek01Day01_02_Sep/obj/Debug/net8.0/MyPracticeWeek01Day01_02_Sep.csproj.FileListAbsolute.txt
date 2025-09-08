@@ -1,0 +1,14 @@
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\bin\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.exe
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\bin\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.deps.json
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\bin\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.runtimeconfig.json
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\bin\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.dll
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\bin\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.pdb
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.AssemblyInfoInputs.cache
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.AssemblyInfo.cs
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.dll
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\refint\MyPracticeWeek01Day01_02_Sep.dll
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.pdb
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\MyPracticeWeek01Day01_02_Sep.genruntimeconfig.cache
+C:\Users\harsimrana\source\repos\MyPracticeWeek01Day01_02_Sep\MyPracticeWeek01Day01_02_Sep\obj\Debug\net8.0\ref\MyPracticeWeek01Day01_02_Sep.dll

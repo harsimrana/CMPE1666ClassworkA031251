@@ -1,0 +1,11 @@
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\bin\Debug\1666Demo01w1d2Sep03.exe.config
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\bin\Debug\1666Demo01w1d2Sep03.exe
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\bin\Debug\1666Demo01w1d2Sep03.pdb
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\1666Demo01w1d2Sep03.csproj.AssemblyReference.cache
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\_1666Demo01w1d2Sep03.Properties.Resources.resources
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\1666Demo01w1d2Sep03.csproj.GenerateResource.cache
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\1666Demo01w1d2Sep03.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\1666Demo01w1d2Sep03.exe
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\1666Demo01w1d2Sep03.pdb
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\1666Demo01w1d2Sep03.exe.config
+C:\Users\harsimrana\source\repos\1666Demo01w1d2Sep03\1666Demo01w1d2Sep03\obj\Debug\_1666Demo01w1d2Sep03.LoginForm.resources
