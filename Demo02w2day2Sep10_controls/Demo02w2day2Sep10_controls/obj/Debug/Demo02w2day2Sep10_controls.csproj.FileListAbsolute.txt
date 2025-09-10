@@ -1,0 +1,11 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\bin\Debug\Demo02w2day2Sep10_controls.exe.config
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\bin\Debug\Demo02w2day2Sep10_controls.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\bin\Debug\Demo02w2day2Sep10_controls.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.csproj.AssemblyReference.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.Demo02.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.Properties.Resources.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.csproj.GenerateResource.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Demo02w2day2Sep10_controls\Demo02w2day2Sep10_controls\obj\Debug\Demo02w2day2Sep10_controls.exe.config
