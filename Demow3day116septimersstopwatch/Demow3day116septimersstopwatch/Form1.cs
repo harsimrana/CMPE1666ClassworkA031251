@@ -58,6 +58,7 @@ namespace Demow3day116septimersstopwatch
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            System.Diagnostics.Trace.WriteLine("Inside Form load");
             myStopWatch.Start();
         }
 

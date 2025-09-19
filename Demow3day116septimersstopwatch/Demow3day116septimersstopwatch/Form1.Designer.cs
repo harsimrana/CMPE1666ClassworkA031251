@@ -44,27 +44,31 @@
             // UI_Screen_Lb
             // 
             this.UI_Screen_Lb.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_Screen_Lb.Location = new System.Drawing.Point(21, 18);
+            this.UI_Screen_Lb.Location = new System.Drawing.Point(12, 9);
             this.UI_Screen_Lb.Name = "UI_Screen_Lb";
-            this.UI_Screen_Lb.Size = new System.Drawing.Size(730, 48);
+            this.UI_Screen_Lb.Size = new System.Drawing.Size(230, 48);
             this.UI_Screen_Lb.TabIndex = 0;
             this.UI_Screen_Lb.Text = "0";
             // 
             // UI_Time_Tbx
             // 
-            this.UI_Time_Tbx.Location = new System.Drawing.Point(231, 18);
+            this.UI_Time_Tbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.UI_Time_Tbx.Location = new System.Drawing.Point(280, 29);
             this.UI_Time_Tbx.Multiline = true;
             this.UI_Time_Tbx.Name = "UI_Time_Tbx";
             this.UI_Time_Tbx.ReadOnly = true;
-            this.UI_Time_Tbx.Size = new System.Drawing.Size(309, 48);
+            this.UI_Time_Tbx.Size = new System.Drawing.Size(230, 48);
             this.UI_Time_Tbx.TabIndex = 1;
             // 
             // UI_Stop_Btn
             // 
-            this.UI_Stop_Btn.Location = new System.Drawing.Point(231, 135);
+            this.UI_Stop_Btn.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.UI_Stop_Btn.Location = new System.Drawing.Point(16, 390);
             this.UI_Stop_Btn.Name = "UI_Stop_Btn";
-            this.UI_Stop_Btn.Size = new System.Drawing.Size(194, 48);
-            this.UI_Stop_Btn.TabIndex = 2;
+            this.UI_Stop_Btn.Size = new System.Drawing.Size(772, 48);
+            this.UI_Stop_Btn.TabIndex = 3;
             this.UI_Stop_Btn.Text = "Stop Time";
             this.UI_Stop_Btn.UseVisualStyleBackColor = true;
             this.UI_Stop_Btn.Click += new System.EventHandler(this.button1_Click);
@@ -72,10 +76,10 @@
             // UI_List_Lbx
             // 
             this.UI_List_Lbx.FormattingEnabled = true;
-            this.UI_List_Lbx.Location = new System.Drawing.Point(25, 135);
+            this.UI_List_Lbx.Location = new System.Drawing.Point(12, 233);
             this.UI_List_Lbx.Name = "UI_List_Lbx";
-            this.UI_List_Lbx.Size = new System.Drawing.Size(168, 186);
-            this.UI_List_Lbx.TabIndex = 3;
+            this.UI_List_Lbx.Size = new System.Drawing.Size(230, 108);
+            this.UI_List_Lbx.TabIndex = 2;
             // 
             // Form1
             // 
