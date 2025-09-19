@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week3day3demo_checkbox", "week3day3demo_checkbox\week3day3demo_checkbox.csproj", "{2DB683A3-8B3D-456C-9B99-600637B13336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB683A3-8B3D-456C-9B99-600637B13336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB683A3-8B3D-456C-9B99-600637B13336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB683A3-8B3D-456C-9B99-600637B13336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB683A3-8B3D-456C-9B99-600637B13336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F50351-1D0D-45C4-98EC-FD17FB9AC4E2}
+	EndGlobalSection
+EndGlobal
