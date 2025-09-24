@@ -1,0 +1,11 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\bin\Debug\week4day2demo0124092025radio.exe.config
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\bin\Debug\week4day2demo0124092025radio.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\bin\Debug\week4day2demo0124092025radio.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.csproj.AssemblyReference.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.Form1.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.Properties.Resources.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.csproj.GenerateResource.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week4day2demo0124092025radio\week4day2demo0124092025radio\obj\Debug\week4day2demo0124092025radio.exe.config

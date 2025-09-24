@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week4day2demo0124092025radio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65B771BC-5557-44D2-8B19-C065E1BAECD8}|week4day2demo0124092025radio\\week4day2demo0124092025radio.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week4day2demo0124092025radio\\week4day2demo0124092025radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B771BC-5557-44D2-8B19-C065E1BAECD8}|week4day2demo0124092025radio\\week4day2demo0124092025radio.csproj|solutionrelative:week4day2demo0124092025radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B771BC-5557-44D2-8B19-C065E1BAECD8}|week4day2demo0124092025radio\\week4day2demo0124092025radio.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week4day2demo0124092025radio\\week4day2demo0124092025radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65B771BC-5557-44D2-8B19-C065E1BAECD8}|week4day2demo0124092025radio\\week4day2demo0124092025radio.csproj|solutionrelative:week4day2demo0124092025radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week4day2demo0124092025radio\\week4day2demo0124092025radio\\Form1.cs",
+              "RelativeDocumentMoniker": "week4day2demo0124092025radio\\Form1.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week4day2demo0124092025radio\\week4day2demo0124092025radio\\Form1.cs",
+              "RelativeToolTip": "week4day2demo0124092025radio\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:11:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week4day2demo0124092025radio\\week4day2demo0124092025radio\\Form1.cs",
+              "RelativeDocumentMoniker": "week4day2demo0124092025radio\\Form1.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week4day2demo0124092025radio\\week4day2demo0124092025radio\\Form1.cs [Design]",
+              "RelativeToolTip": "week4day2demo0124092025radio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:04:54.272Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

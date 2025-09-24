@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week3day3demo_checkbox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|solutionrelative:week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|solutionrelative:week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|solutionrelative:week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB683A3-8B3D-456C-9B99-600637B13336}|week3day3demo_checkbox\\week3day3demo_checkbox.csproj|solutionrelative:week3day3demo_checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\Form1.cs",
+              "RelativeDocumentMoniker": "week3day3demo_checkbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\Form1.cs",
+              "RelativeToolTip": "week3day3demo_checkbox\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:18:18.133Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -27,19 +40,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\Form1.cs",
-              "RelativeDocumentMoniker": "week3day3demo_checkbox\\Form1.cs",
-              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\Form1.cs",
-              "RelativeToolTip": "week3day3demo_checkbox\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T20:18:18.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week3day3demo_checkbox\\week3day3demo_checkbox\\Form1.cs",
               "RelativeDocumentMoniker": "week3day3demo_checkbox\\Form1.cs",
