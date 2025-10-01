@@ -1,0 +1,15 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\bin\Debug\net8.0\week05day0201oct2025.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\bin\Debug\net8.0\week05day0201oct2025.deps.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\bin\Debug\net8.0\week05day0201oct2025.runtimeconfig.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\bin\Debug\net8.0\week05day0201oct2025.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\bin\Debug\net8.0\week05day0201oct2025.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.AssemblyInfoInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.AssemblyInfo.cs
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.sourcelink.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\refint\week05day0201oct2025.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\week05day0201oct2025.genruntimeconfig.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week05day0201oct2025\week05day0201oct2025\obj\Debug\net8.0\ref\week05day0201oct2025.dll
