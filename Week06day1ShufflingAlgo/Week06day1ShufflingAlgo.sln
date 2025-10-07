@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week06day1ShufflingAlgo", "Week06day1ShufflingAlgo\Week06day1ShufflingAlgo.csproj", "{14FE5389-6FFF-4489-B463-D80E3E144432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FE5389-6FFF-4489-B463-D80E3E144432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FE5389-6FFF-4489-B463-D80E3E144432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FE5389-6FFF-4489-B463-D80E3E144432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FE5389-6FFF-4489-B463-D80E3E144432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDACF0A-022E-4DDD-A30F-F7AF4269220E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\bin\Debug\net8.0\Week06day1ShufflingAlgo.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\bin\Debug\net8.0\Week06day1ShufflingAlgo.deps.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\bin\Debug\net8.0\Week06day1ShufflingAlgo.runtimeconfig.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\bin\Debug\net8.0\Week06day1ShufflingAlgo.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\bin\Debug\net8.0\Week06day1ShufflingAlgo.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.AssemblyInfoInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.AssemblyInfo.cs
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.sourcelink.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\refint\Week06day1ShufflingAlgo.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\Week06day1ShufflingAlgo.genruntimeconfig.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week06day1ShufflingAlgo\Week06day1ShufflingAlgo\obj\Debug\net8.0\ref\Week06day1ShufflingAlgo.dll
