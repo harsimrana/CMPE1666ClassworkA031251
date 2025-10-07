@@ -1,0 +1,9 @@
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.csproj.AssemblyReference.cache
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.Properties.Resources.resources
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.csproj.GenerateResource.cache
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\bin\Debug\StudentManagerApp.exe.config
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\bin\Debug\StudentManagerApp.exe
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\bin\Debug\StudentManagerApp.pdb
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.exe
+C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.pdb
