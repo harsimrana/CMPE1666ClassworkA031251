@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week06day02_08oct_fileprocessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2845C51-384D-46FD-8878-86E37F4DC45B}|week06day02_08oct_fileprocessing\\week06day02_08oct_fileprocessing.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week06day02_08oct_fileprocessing\\week06day02_08oct_fileprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2845C51-384D-46FD-8878-86E37F4DC45B}|week06day02_08oct_fileprocessing\\week06day02_08oct_fileprocessing.csproj|solutionrelative:week06day02_08oct_fileprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week06day02_08oct_fileprocessing\\week06day02_08oct_fileprocessing\\Program.cs",
+              "RelativeDocumentMoniker": "week06day02_08oct_fileprocessing\\Program.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\week06day02_08oct_fileprocessing\\week06day02_08oct_fileprocessing\\Program.cs",
+              "RelativeToolTip": "week06day02_08oct_fileprocessing\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:09:14.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

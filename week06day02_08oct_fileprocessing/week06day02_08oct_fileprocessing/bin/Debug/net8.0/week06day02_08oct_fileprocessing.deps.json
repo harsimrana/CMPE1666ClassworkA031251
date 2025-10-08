@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "week06day02_08oct_fileprocessing/1.0.0": {
+        "runtime": {
+          "week06day02_08oct_fileprocessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week06day02_08oct_fileprocessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

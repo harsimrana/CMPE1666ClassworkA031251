@@ -1,0 +1,15 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\bin\Debug\net8.0\week06day02_08oct_fileprocessing.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\bin\Debug\net8.0\week06day02_08oct_fileprocessing.deps.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\bin\Debug\net8.0\week06day02_08oct_fileprocessing.runtimeconfig.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\bin\Debug\net8.0\week06day02_08oct_fileprocessing.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\bin\Debug\net8.0\week06day02_08oct_fileprocessing.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.AssemblyInfoInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.AssemblyInfo.cs
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.sourcelink.json
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\refint\week06day02_08oct_fileprocessing.dll
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\week06day02_08oct_fileprocessing.genruntimeconfig.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week06day02_08oct_fileprocessing\week06day02_08oct_fileprocessing\obj\Debug\net8.0\ref\week06day02_08oct_fileprocessing.dll
