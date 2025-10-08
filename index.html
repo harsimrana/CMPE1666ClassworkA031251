@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            main{
+                display: grid;
+                grid-template-columns: 20% 50% 30%;
+                grid-template-rows: 100px 200px;
+                
+                grid-gap: 20px 10px;
+
+            }
+            .item{
+                border: 2px solid green;
+                text-align: center;
+            }
+            .item1{
+                grid-row: 2/3;
+                grid-column: 2/3;
+            }
+            #nesttGrid
+            {
+                display: grid;
+                grid-template-columns: 1fr 1fr; 
+                grid-template-rows: 1fr 1fr;
+            }
+            table{
+                border-collapse: collapse;
+
+            }
+            table,td,th{
+                border: 1px dashed blue;
+                padding: 10px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1> Grid Demo</h1>
+        </header>
+        <main>
+            <div class ="item item1"> 1</div>
+            <div class ="item item2"> 
+                <p> This is my para</p>
+            </div>
+            <div class ="item item3" id="nesttGrid"> 
+                <div id="n1"> n1</div>
+                <div id="n2"> n2</div>
+                <div id="n3"> n3</div>
+                <div id="n4"> n4</div>
+            </div>
+            <div class ="item item4"> 4</div>
+            <div class ="item item5"> 5</div>
+            <div class ="item item6"> 
+                <table>
+                    <tr>
+                        <th>s. no</th>
+                        <th> Name</th>
+                    </tr>
+                    <tr>
+                        <td> 1.</td>
+                        <td> Simran</td>
+                    </tr>
+                </table>
+            </div>
+
+        </main>
+        <footer>
+            Copyright &copy; Nait
+        </footer>
+    </body>
+</html>
