@@ -1,0 +1,11 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\bin\Debug\Week07Day01DemoDragDrop.exe.config
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\bin\Debug\Week07Day01DemoDragDrop.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\bin\Debug\Week07Day01DemoDragDrop.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.csproj.AssemblyReference.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.Properties.Resources.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.csproj.GenerateResource.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.exe.config
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week07Day01DemoDragDrop\Week07Day01DemoDragDrop\obj\Debug\Week07Day01DemoDragDrop.Form1.resources
