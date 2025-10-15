@@ -1,0 +1,1 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\week07day02Sorting_Selection_Insertion_Sorts\week07day02Sorting_Selection_Insertion_Sorts\obj\Debug\net8.0\week07day02Sorting_Selection_Insertion_Sorts.GeneratedMSBuildEditorConfig.editorconfig

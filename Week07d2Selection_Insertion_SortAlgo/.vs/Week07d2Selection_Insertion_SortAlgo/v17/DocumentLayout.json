@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week07d2Selection_Insertion_SortAlgo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F0907-FE79-42B5-909D-8E0031D14A70}|Week07d2Selection_Insertion_SortAlgo\\Week07d2Selection_Insertion_SortAlgo.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week07d2selection_insertion_sortalgo\\week07d2selection_insertion_sortalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0F0907-FE79-42B5-909D-8E0031D14A70}|Week07d2Selection_Insertion_SortAlgo\\Week07d2Selection_Insertion_SortAlgo.csproj|solutionrelative:week07d2selection_insertion_sortalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week07d2Selection_Insertion_SortAlgo\\Week07d2Selection_Insertion_SortAlgo\\Program.cs",
+              "RelativeDocumentMoniker": "Week07d2Selection_Insertion_SortAlgo\\Program.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week07d2Selection_Insertion_SortAlgo\\Week07d2Selection_Insertion_SortAlgo\\Program.cs",
+              "RelativeToolTip": "Week07d2Selection_Insertion_SortAlgo\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:01:14.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
