@@ -1,0 +1,8 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\bin\Debug\Week08day03Recursion.exe.config
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\bin\Debug\Week08day03Recursion.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\bin\Debug\Week08day03Recursion.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\obj\Debug\Week08day03Recursion.csproj.AssemblyReference.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\obj\Debug\Week08day03Recursion.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\obj\Debug\Week08day03Recursion.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\obj\Debug\Week08day03Recursion.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week08day03Recursion\Week08day03Recursion\obj\Debug\Week08day03Recursion.exe.config
