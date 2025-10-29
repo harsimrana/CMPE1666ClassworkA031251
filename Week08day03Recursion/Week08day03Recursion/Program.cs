@@ -8,10 +8,11 @@ namespace Week08day03Recursion
 {
     internal class Program
     {
+        public static int count = 0;
         static void Main(string[] args)
         {
             Console.WriteLine("Week 08L Day 03 24.10.2025 Recursion");
-
+            
             /*
              * Recursion: when a method calls itself
              * Any programming problems which can be solved using a loop can also be solved using recursion
@@ -38,7 +39,7 @@ namespace Week08day03Recursion
 
             // Declare an array for Linear search operation
             int[] numbers = { 4, 5, 9, 15, 21, 37, 57, 91, 99};
-            int itemSeach = 100;
+            int itemSeach = 7;
 /*
             int indexOfItem = LinearSeachIterative(numbers, itemSeach);
 
@@ -55,21 +56,56 @@ namespace Week08day03Recursion
             else
                 Console.WriteLine($"{itemSeach}  is Found at index {indexOfItem}");
 */
+         // UNCOMMENT THE FOLLOWING BLOCK TO TEST IT USING ITERATIVE VERSION
+/*
             int indexOfItem = BinarySeachIterative(numbers, itemSeach);
 
             if (indexOfItem == -1)
                 Console.WriteLine($"{itemSeach}  is Not Found in the list");
             else
                 Console.WriteLine($"{itemSeach}  is Found at index {indexOfItem}");
+*/
+            // Test binary search using recursive version
+            // UNCOMMENT THE FOLLOWING BLOCK TO TEST IT RECURSIVELY
+
+            int indexOfItem = BinarySeachRecursive(numbers, itemSeach, 0, numbers.Length-1);
+
+            if (indexOfItem == -1)
+                Console.WriteLine($"{itemSeach}  is Not Found in the list");
+            else
+                Console.WriteLine($"{itemSeach}  is Found at index {indexOfItem}");
+            Console.WriteLine($" It took {count} comparisons");
         }
 
+        public static int BinarySeachRecursive(int[] collection, int target, int low, int upper)
+        {
+            if (low <= upper)
+            {
+                int mid = (low + upper) / 2;
+                count++;
+
+                if (collection[mid] == target)
+                    return mid;  // Found the match so return the index of that element
+                else if (target < collection[mid])
+                {
+                    // Need to search in the left half of the list
+                    return BinarySeachRecursive(collection, target, low, mid - 1);
+                }
+                else if (target > collection[mid])
+                {
+                    // Need to search in the right half of the list
+                    return BinarySeachRecursive(collection, target, mid + 1, upper);
+                }
+            }
+            return -1; // not in the list
+        }
         private static int BinarySeachIterative(int[] collection, int target)
         {
             int low = 0, upper = collection.Length - 1, mid;
-
+           
             while ( low <= upper)
             {
-                mid = (low + upper) / 2;
+                mid = (low + upper) / 2;  // Observe int division here
 
                 if (collection[mid] == target)
                     return mid;
@@ -80,7 +116,7 @@ namespace Week08day03Recursion
                 else
                 { // item is in the right half of the list
                     low = mid + 1;
-                }
+                } 
             }
             return -1; // not in the list
         }
