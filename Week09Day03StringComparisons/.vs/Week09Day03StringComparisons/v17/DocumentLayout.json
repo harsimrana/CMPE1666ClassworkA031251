@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week09Day03StringComparisons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CB2E25-A4C7-48C3-82E8-A9FDB7C6A40B}|Week09Day03StringComparisons\\Week09Day03StringComparisons.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week09day03stringcomparisons\\week09day03stringcomparisons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CB2E25-A4C7-48C3-82E8-A9FDB7C6A40B}|Week09Day03StringComparisons\\Week09Day03StringComparisons.csproj|solutionrelative:week09day03stringcomparisons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week09Day03StringComparisons\\Week09Day03StringComparisons\\Program.cs",
+              "RelativeDocumentMoniker": "Week09Day03StringComparisons\\Program.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week09Day03StringComparisons\\Week09Day03StringComparisons\\Program.cs",
+              "RelativeToolTip": "Week09Day03StringComparisons\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:04:59.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
