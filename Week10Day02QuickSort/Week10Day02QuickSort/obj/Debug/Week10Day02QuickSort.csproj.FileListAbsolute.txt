@@ -1,0 +1,7 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week10Day02QuickSort\Week10Day02QuickSort\bin\Debug\Week10Day02QuickSort.exe.config
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week10Day02QuickSort\Week10Day02QuickSort\bin\Debug\Week10Day02QuickSort.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week10Day02QuickSort\Week10Day02QuickSort\bin\Debug\Week10Day02QuickSort.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week10Day02QuickSort\Week10Day02QuickSort\obj\Debug\Week10Day02QuickSort.csproj.AssemblyReference.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week10Day02QuickSort\Week10Day02QuickSort\obj\Debug\Week10Day02QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week10Day02QuickSort\Week10Day02QuickSort\obj\Debug\Week10Day02QuickSort.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week10Day02QuickSort\Week10Day02QuickSort\obj\Debug\Week10Day02QuickSort.pdb
