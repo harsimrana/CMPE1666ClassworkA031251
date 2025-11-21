@@ -1,0 +1,12 @@
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\bin\Debug\Week12Day03ModelessDialog.exe.config
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\bin\Debug\Week12Day03ModelessDialog.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\bin\Debug\Week12Day03ModelessDialog.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.csproj.AssemblyReference.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.UI_MainForm.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.ModelessDialog.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.Properties.Resources.resources
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.csproj.GenerateResource.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.exe
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.pdb
+C:\Users\harsimrana\OneDrive - NAIT\Documents\GitHub\CMPE1666ClassworkA031251\Week12Day03ModelessDialog\Week12Day03ModelessDialog\obj\Debug\Week12Day03ModelessDialog.exe.config

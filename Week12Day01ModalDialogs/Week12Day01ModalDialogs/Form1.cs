@@ -39,6 +39,8 @@ namespace Week12Day01ModalDialogs
             // Creating object of our ModalDialogUserForm class
             ModalDialogUserForm dialog = new ModalDialogUserForm();
 
+            //dialog.Show(); //modeless one
+
             // Show the Dialog using ShowDialog()
             if (dialog.ShowDialog() == DialogResult.OK)
             {
@@ -63,7 +65,7 @@ namespace Week12Day01ModalDialogs
             }
             else
             {
-                MessageBox.Show("Dialog was closed with Cancel or X button");
+             //   MessageBox.Show("Dialog was closed with Cancel or X button");
             }
 
         }
