@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week13Day03DemoMultiThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54701DD5-BB97-4F0A-8027-267CCEE4A146}|Week13Day03DemoMultiThreading\\Week13Day03DemoMultiThreading.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week13day03demomultithreading\\week13day03demomultithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54701DD5-BB97-4F0A-8027-267CCEE4A146}|Week13Day03DemoMultiThreading\\Week13Day03DemoMultiThreading.csproj|solutionrelative:week13day03demomultithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week13Day03DemoMultiThreading\\Week13Day03DemoMultiThreading\\Program.cs",
+              "RelativeDocumentMoniker": "Week13Day03DemoMultiThreading\\Program.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week13Day03DemoMultiThreading\\Week13Day03DemoMultiThreading\\Program.cs",
+              "RelativeToolTip": "Week13Day03DemoMultiThreading\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:10:12.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
