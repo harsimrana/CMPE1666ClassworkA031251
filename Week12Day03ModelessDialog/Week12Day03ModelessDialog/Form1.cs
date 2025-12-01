@@ -42,6 +42,7 @@ namespace Week12Day03ModelessDialog
                 {
                     dlg = new ModelessDialog();
                     dlg._dTextChanged = CallBackTextChanged;
+                    dlg._dFormClosing = CallBackFormClosing;
 
                 }
                 dlg.Show();
@@ -53,6 +54,15 @@ namespace Week12Day03ModelessDialog
             
 
 
+        }
+
+        private void CallBackFormClosing()
+        {
+            UI_ShowDialog_Cbx.Checked = false;
+            // No need of this now because this part has been handled in ModelessDialog.cs file
+
+            //dlg = null;  // Need to reset back to null so that if [dlg == null] part works
+            // CallBackTextChanged("");   // if you need to clear text of label as well
         }
     }
 }

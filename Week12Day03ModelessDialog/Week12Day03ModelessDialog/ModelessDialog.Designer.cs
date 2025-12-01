@@ -49,6 +49,7 @@
             this.MinimizeBox = false;
             this.Name = "ModelessDialog";
             this.Text = "ModelessDialog";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ModelessDialog_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
