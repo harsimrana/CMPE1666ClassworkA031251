@@ -30,6 +30,7 @@ namespace Week12Day02DemoDelegates
             // You can omit the new and constructor stuff, C# will handle that for you
             delStr1 = PrintMarks;
             delStr1.Invoke("34");
+            //delStr1("34");
         }
 
         public static void PrintName(string str)

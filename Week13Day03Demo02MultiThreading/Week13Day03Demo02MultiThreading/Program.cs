@@ -17,6 +17,9 @@ namespace Week13Day03Demo02MultiThreading
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
+            System.Environment.Exit(0); // When the main program ends, threads end as well
         }
     }
 }

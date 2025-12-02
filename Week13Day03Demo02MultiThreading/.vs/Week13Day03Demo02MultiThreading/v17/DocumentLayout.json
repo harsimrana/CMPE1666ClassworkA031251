@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{FA40CA31-BB48-4688-A1D7-EEF7313493EA}|Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading.csproj|solutionrelative:week13day03demo02multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA40CA31-BB48-4688-A1D7-EEF7313493EA}|Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week13day03demo02multithreading\\week13day03demo02multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA40CA31-BB48-4688-A1D7-EEF7313493EA}|Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading.csproj|C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week13Day03Demo02MultiThreading\\week13day03demo02multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA40CA31-BB48-4688-A1D7-EEF7313493EA}|Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading.csproj|solutionrelative:week13day03demo02multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA40CA31-BB48-4688-A1D7-EEF7313493EA}|Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading.csproj|c:\\users\\harsimrana\\onedrive - nait\\documents\\github\\cmpe1666classworka031251\\week13day03demo02multithreading\\week13day03demo02multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA40CA31-BB48-4688-A1D7-EEF7313493EA}|Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading.csproj|solutionrelative:week13day03demo02multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading\\Program.cs",
+              "RelativeDocumentMoniker": "Week13Day03Demo02MultiThreading\\Program.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading\\Program.cs",
+              "RelativeToolTip": "Week13Day03Demo02MultiThreading\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:49:13.315Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Week13Day03Demo02MultiThreading\\Form1.cs",
               "ToolTip": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week13Day03Demo02MultiThreading\\Week13Day03Demo02MultiThreading\\Form1.cs",
               "RelativeToolTip": "Week13Day03Demo02MultiThreading\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAD4v6YAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T21:42:01.643Z",
               "EditorCaption": ""

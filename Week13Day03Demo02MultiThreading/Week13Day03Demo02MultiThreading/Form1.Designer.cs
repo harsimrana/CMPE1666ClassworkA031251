@@ -32,6 +32,7 @@
             this.UI_btn_Calculate = new System.Windows.Forms.Button();
             this.UI_lbx_SinValues = new System.Windows.Forms.ListBox();
             this.UI_lbl_Count = new System.Windows.Forms.Label();
+            this.UI_btn_StopThread = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // UI_btn_CountClick
@@ -71,11 +72,22 @@
             this.UI_lbl_Count.Size = new System.Drawing.Size(0, 13);
             this.UI_lbl_Count.TabIndex = 3;
             // 
+            // UI_btn_StopThread
+            // 
+            this.UI_btn_StopThread.Location = new System.Drawing.Point(412, 180);
+            this.UI_btn_StopThread.Name = "UI_btn_StopThread";
+            this.UI_btn_StopThread.Size = new System.Drawing.Size(127, 48);
+            this.UI_btn_StopThread.TabIndex = 4;
+            this.UI_btn_StopThread.Text = "Stop Thread";
+            this.UI_btn_StopThread.UseVisualStyleBackColor = true;
+            this.UI_btn_StopThread.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(609, 374);
+            this.Controls.Add(this.UI_btn_StopThread);
             this.Controls.Add(this.UI_lbl_Count);
             this.Controls.Add(this.UI_lbx_SinValues);
             this.Controls.Add(this.UI_btn_Calculate);
@@ -93,6 +105,7 @@
         private System.Windows.Forms.Button UI_btn_Calculate;
         private System.Windows.Forms.ListBox UI_lbx_SinValues;
         private System.Windows.Forms.Label UI_lbl_Count;
+        private System.Windows.Forms.Button UI_btn_StopThread;
     }
 }
 
