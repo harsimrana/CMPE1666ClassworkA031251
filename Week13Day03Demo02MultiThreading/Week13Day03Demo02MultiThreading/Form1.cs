@@ -119,7 +119,8 @@ namespace Week13Day03Demo02MultiThreading
             double x = 0;
             if (argument is int maxDegree)
             {
-
+                // Also possible to unbox regular types
+                //int maxDegree = (int) argument;
                 while ((x <= maxDegree) && (runThread == true))
                 {
                     double rad = Math.PI * x / 180;
@@ -156,8 +157,8 @@ namespace Week13Day03Demo02MultiThreading
             // Creating an action delegate 
             Action<string> delWriteSine = AddToListBox;
 
-            
-            if (argument is Boundaries)
+            //  Func
+            if (argument is Boundaries )
             { // Checking the value is of expected type
 
                 // Unboxed the boundaries object
@@ -195,7 +196,7 @@ namespace Week13Day03Demo02MultiThreading
 
         }
 
-        private void AddToListBox(string str)
+        private void AddToListBox(string str )
         {
             // Add the string to the list box
             UI_lbx_SinValues.Items.Add(str);
@@ -227,6 +228,15 @@ namespace Week13Day03Demo02MultiThreading
 
             t3.Start( b1 );
 
+            Console.WriteLine($" The Thread state is = {t3.ThreadState.ToString()}");
+
+            //Thread states: running, stopped, suspended, Aborted, bacground 
+
+            if (t3.ThreadState == ThreadState.Running)
+            {
+                Console.WriteLine("The Thread is running");
+                
+            }
             //FindSine();
         }
 
@@ -234,6 +244,9 @@ namespace Week13Day03Demo02MultiThreading
         {
             // Change the value of runThread variable to false to stop the thread
             runThread = false;
+
+            Console.WriteLine($" The Thread state is = {t3.ThreadState.ToString()}");
+
         }
     }
 }
