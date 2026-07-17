@@ -9,6 +9,7 @@
             // Calling DisplayData() to print the list before shuffling
             DisplayData(marks);
 
+
             //calling ShuffleData method to shuffle your list 
             ShuffleData(marks);
 

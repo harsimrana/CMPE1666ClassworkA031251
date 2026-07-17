@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week06day1ShufflingAlgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c39a71f00b2a020212f8ba259a23c39e6adbc4d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+867b886d405209461d2ed0a1f84138742d8ef1e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week06day1ShufflingAlgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week06day1ShufflingAlgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

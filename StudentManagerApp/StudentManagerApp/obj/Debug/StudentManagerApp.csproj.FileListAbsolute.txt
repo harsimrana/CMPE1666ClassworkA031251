@@ -7,3 +7,13 @@ C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\bin\Debug\S
 C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\bin\Debug\StudentManagerApp.pdb
 C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.exe
 C:\Users\HARSIMRANA\source\repos\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.pdb
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\bin\Debug\StudentManagerApp.exe.config
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\bin\Debug\StudentManagerApp.exe
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\bin\Debug\StudentManagerApp.pdb
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.csproj.AssemblyReference.cache
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.Form1.resources
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.Properties.Resources.resources
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.csproj.GenerateResource.cache
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.exe
+C:\Users\NAIT_WORK\Music\1251\CMPE1666ClassworkA031251\StudentManagerApp\StudentManagerApp\obj\Debug\StudentManagerApp.pdb

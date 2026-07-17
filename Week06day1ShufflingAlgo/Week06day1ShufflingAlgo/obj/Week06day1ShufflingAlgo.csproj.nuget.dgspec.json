@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj": {}
+    "C:\\Users\\NAIT_WORK\\Music\\1251\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj": {
+    "C:\\Users\\NAIT_WORK\\Music\\1251\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj",
+        "projectUniqueName": "C:\\Users\\NAIT_WORK\\Music\\1251\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj",
         "projectName": "Week06day1ShufflingAlgo",
-        "projectPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj",
-        "packagesPath": "C:\\Users\\harsimrana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harsimrana\\OneDrive - NAIT\\Documents\\GitHub\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\obj\\",
+        "projectPath": "C:\\Users\\NAIT_WORK\\Music\\1251\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo.csproj",
+        "packagesPath": "C:\\Users\\NAIT_WORK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NAIT_WORK\\Music\\1251\\CMPE1666ClassworkA031251\\Week06day1ShufflingAlgo\\Week06day1ShufflingAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\harsimrana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NAIT_WORK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
